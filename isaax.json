@@ -6,8 +6,7 @@
   "author": "",
   "language":"python3",
   "license": "",
-  {
-  "scripts": 
+  "scripts": {
      "start": "python3 -u IoT.py"
   }
 }
